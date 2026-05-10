@@ -14,7 +14,7 @@ Soy **estudiante de Ingeniería de Sistemas** en la UNAD, enfocado en el desarro
 </p>
 
 <p align="center">
-  <img src="https://w7.pngwing.com/pngs/114/535/png-transparent-mysql-cluster-database-management-system-oracle-sql-logo-blue-text-logo.png" width="150">
+  <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" width="150">
 </p>
 
 ## 📈 Projects in Progress / Proyectos en progreso
