@@ -21,4 +21,3 @@ Soy **estudiante de Ingeniería de Sistemas** en la UNAD, enfocado en el desarro
 ## 📫 Connect with me / Contacto
 - **Location:** Tenjo, Cundinamarca 🇨🇴
 
-*Actualización del readme
