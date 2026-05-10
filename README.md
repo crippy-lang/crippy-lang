@@ -6,7 +6,7 @@ Soy **estudiante de Ingeniería de Sistemas** en la UNAD, enfocado en el desarro
 
 ## 🛠️ Tech Stack / Tecnologías
 <p align="left">
-  <img src="https://i.pinimg.com/originals/ec/51/b0/ec51b026341cc2bdf0d7170a36da010f.png" width="150">
+  <img src="https://tecnobloggers.com/wp-content/uploads/2024/09/logo_python.webp" width="150">
 </p>
 
 <p align="center">
