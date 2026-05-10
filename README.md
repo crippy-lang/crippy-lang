@@ -13,7 +13,9 @@ Soy **estudiante de Ingeniería de Sistemas** en la UNAD, enfocado en el desarro
   <img src="https://brandslogos.com/wp-content/uploads/images/large/docker-logo.png" width="150">
 </p>
 
-![SQL](https://img.shields.io/badge/sql-%2300758f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
+  <img src="https://w7.pngwing.com/pngs/114/535/png-transparent-mysql-cluster-database-management-system-oracle-sql-logo-blue-text-logo.png" width="150">
+</p>
 
 ## 📈 Projects in Progress / Proyectos en progreso
 - 🤖 **Babel:** Real-time voice translation tool using Python. / Herramienta de traducción de voz en tiempo real con Python.
