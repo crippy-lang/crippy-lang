@@ -5,7 +5,7 @@ I am a **Systems Engineering student** at UNAD, focused on software development 
 Soy **estudiante de Ingeniería de Sistemas** en la UNAD, enfocado en el desarrollo de software y creacion de inventos. 
 
 ## 🛠️ Tech Stack / Tecnologías
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python]([https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54](https://simpleicons.org/icons/python.svg))
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2300758f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
