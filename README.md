@@ -1,4 +1,4 @@
-# Hi there! I'm Duvan 👋 / ¡Hola! Soy Duvan
+#Hola, mi nombre es Duvan 
 
 ## 🚀 About Me / Sobre mí
 I am a **Systems Engineering student** at UNAD, focused on software development and the creation of inventions.
